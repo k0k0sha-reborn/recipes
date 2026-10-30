@@ -17,15 +17,13 @@
   Max Miller chose to use 4 eggs rather than Houdini's two eggs, for a better custard consistency. Max says Houdini's custard with 2 eggs would be really watery, so 4 eggs is much better than 2.  
   Houdini's recipe doesn't specify how much butter to use, though I can assume you'd want to be pretty generous, and also go with your personal taste. I've found that changing how much butter you put in creates a drastically different dish when baking (or cooking for that matter), because baking is a rather precise art. The recipe also doesn't specify whether to use salted or unsalted butter. As far as the butter goes when recreating this dish, Master Chef Max Miller used 3 tablespoons of salted butter.  
   Another thing Houdini doesn't specify is what a moderate oven means. We can probably assume he meant 350-375 degrees Fahrenheit, or 177-190 degrees Celsius which is what temperature we modern bakers like to bake bread. The temperature matters a lot when baking. Generally speaking, we don't want to add too much heat when making the custard. This means that you really shouldn't go past 375F whatsoever, but you are better off sticking to the low end around 350F or even 325F. The first time you do this recipe, I advise 325F. You can always add more heat at the end to crisp it up a bit, but the custard needs time to be absorbed into the bread. Max Miller chose 325F, which is what I would have chosen too.
-  Although we know how long Houdini says to cook the custard, we may have to change our cooking time (or even temperature) depending on the bread. All breads are not created equal. I'd say Houdini's recipe would work well with French or Italian white bread, so long as it is a plain crust. Max Miller says the bread should preferably be stale, and that may be his professional opinion, but I would try rather fresh bread. Stale bread would make a harder, crispier, thicker crust, but fresh bread would taste better with a softer crust. 
+  Although we know how long Houdini says to cook the custard, we may have to change our cooking time (or even temperature) depending on the bread. All breads are not created equal. I'd say Houdini's recipe would work well with French or Italian white bread, so long as it is a plain crust. Max Miller says the bread should preferably be stale, and that may be his professional opinion, but I would try rather fresh bread. Stale bread would make a harder, crispier, thicker crust, but fresh bread would taste better with a softer crust. Because the bread needs to be pliable enough to fit in the bottom of the dish, I would rather just use fresh bread.
+  As for making the custard itself, Max Miller whisks the eggs in a separate bowl, mixes the milk and sugar in a pot, then heats the milk on medium-low until it starts to steam. In order to avoid making scrambled eggs by mistake, Max says we have to slowly add about 4 ladles of milk to the eggs, while whisking the entire time, in order to bring the eggs to the same temperature as the milk. Then you can safely mix the eggs back into the milk. Whisk entire time as you warm it back up. 
+  Finally, we can add some other stuff into this custard. We can add cherries, chocolate, blueberries, banana, nutmeg, cinnamon, caramel, or whatever else we like to put on a dessert. Even ice cream will do. It's your snack, so cook as you see fit-- that's what I always say.
     
-
-<small>
 
 Copied from 1916 copy of "Celebrated Actor-Folks' Cookeries", as per the Tasting History YouTube channel's video (with host Max Miller):  
 https://www.youtube.com/watch?v=wp2-FGLdgfE      
 "I happen to have a taste for sweets, and this one you will not find in any other cookbook."  
 Sincerely Yours,  
 Harry Houdini  
-
-</small>
