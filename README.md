@@ -26,3 +26,4 @@
 * **Colander & Sieve:** Crucial for draining everything from rice to pasta. Ensure you clean the colander thoroughly and often.
 * **Measuring Cups:** Help a lot with accuracy. While they aren't required once you memorize a recipe, measuring cups are necessary to reproduce a recipe consistently and help with tuning a dish to perfection. While many elite chefs don't use measuring cups, they rely on other convenient measurement methods; when you are trying a new recipe, a measuring cup is pretty indispensable.
 * **Parchment Paper:** A must-have for baking and non-stick applications such as croissants and chocolate chip cookies.
+* **Cheesecloth:** Required for straining certain things such as broth and cheese.
