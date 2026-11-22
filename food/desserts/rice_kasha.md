@@ -5,8 +5,8 @@
 * Milk
 * Water
 * Butter
-* Salt (cane or refined)
-* Sugar
+* Salt 
+* Sugar (cane or refined)
 * *Optional:* Vanilla flavoring, cinnamon, and/or raisins
 
 ## Instructions
