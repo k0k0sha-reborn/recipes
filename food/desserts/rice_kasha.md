@@ -20,3 +20,5 @@
 7. Once the milk is in the pot, put it at a low heat and cook it for 45 minutes to 1 hour, stirring often. 
 8. Finally, mix in the raisins, cinnamon, and any other berries you're having in it. 
 9. Serve alongside a protein such as ham or bologna.
+
+Note that while this recipe can be made as a dessert, it can also be eaten as an entire meal. It is a common breakfast in certain parts of the world.
