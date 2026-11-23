@@ -24,6 +24,6 @@
 * **Wooden/Bamboo Spoons & Spatulas:** Very important for cooking nearly any dish. These are cheap and expendable, though they do not take well to being machine-washed and can develop mold easily.
   * *Alternative:* If mold is a serious problem, you may want plastic utensils instead. Plastic spoons and spatulas are easier to wash and much more resistant to mold, though they aren't used by superior chefs due to their tendency to melt under high heat (which wood doesn't do).
 * **Colander & Sieve:** Crucial for draining everything from rice to pasta. Ensure you clean the colander thoroughly and often.
-* **Measuring Cups:** Help a lot with accuracy. While they aren't required once you memorize a recipe, measuring cups are necessary to reproduce a recipe consistently and help with tuning a dish to perfection. While many elite chefs don't use measuring cups, they rely on other convenient measurement methods; when you are trying a new recipe, a measuring cup is pretty indispensable.
+* **Measuring Cups:** Help a lot with accuracy. While they aren't required once you memorize a recipe, measuring cups are necessary to reproduce a recipe consistently. They also help with tuning a dish to perfection. While many elite chefs don't use measuring cups, they do rely on other measurement methods; when you are trying a new recipe, a measuring cup is pretty indispensable.
 * **Parchment Paper:** A must-have for baking and non-stick applications such as croissants and chocolate chip cookies.
-* **Cheesecloth:** Required for straining certain things such as broth and cheese.
+* **Cheesecloth:** Required for straining certain things such as broth, brew, and cheese.
