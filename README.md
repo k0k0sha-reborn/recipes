@@ -2,8 +2,8 @@
 
 ## Knives & Cutting Tools
 
-* **Good Knives:** A standard chef knife and a *Mezzaluna* (half-moon), as well as any other knives that you are skilled with. You probably want a few paring knives in your inventory. Always make sure to choose a knife that suits you.
-* **Cutting Board:** Essential for protecting your surfaces and blades.
+* **Good Knives:** A standard chef knife and a *Mezzaluna* (half-moon), as well as any other knives that you are skilled with. You probably want a few pairing knives in your inventory. Always make sure to choose a knife that suits you.
+* **Cutting Board:** Essential for cutting food.
 * **Utility Tools:** Also make sure you have kitchen scissors and can openers.
 
 ## Cookware & Vessels
